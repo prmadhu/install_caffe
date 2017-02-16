@@ -112,6 +112,7 @@ Do the following changes to the Makefile.config file:
 
 ## Check the installation
     Import CAFFE in python as shown below:
+    
     cd python
     
     python
